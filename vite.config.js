@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Archivo_Vivo_Lenguas_Originarias_HACK/',
+  base: '/Xmanikte/',
 })
